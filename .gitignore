@@ -5,3 +5,4 @@ log/
 .idea/
 *.pyc
 __pycache__/
+/rosbag2_*/
